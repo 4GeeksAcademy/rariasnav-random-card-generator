@@ -1,1 +1,11 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+#suitToBeInverted {
+  rotate: 180deg;
+}
+#number {
+  font-size: 5rem;
+}
+#suit,
+#suitInverted {
+  font-size: 60px;
+}
